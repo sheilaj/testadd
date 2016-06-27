@@ -3,3 +3,5 @@
 /**
  * Implements hook_menu().
  */
+function bogus_menu() {
+}
