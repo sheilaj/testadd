@@ -1,5 +1,5 @@
 <?php
 
 /**
- * Implements a hook.
+ * Implements hook_menu().
  */
